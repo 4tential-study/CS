@@ -1,6 +1,5 @@
-# CS
 
-## 운영
+## 👋 운영
 스터디 주제: Computer Science
 
 총 인원 수: 5명
